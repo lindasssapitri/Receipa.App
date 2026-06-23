@@ -1,17 +1,17 @@
-# aplikasi_resep
+# Recepia App
 
-A new Flutter project.
+Recepia App adalah proyek aplikasi kuliner yang dikembangkan untuk mempermudah manajemen resep masakan. Aplikasi ini memungkinkan pengguna untuk menjelajahi berbagai resep dan mengorganisir instruksi memasak favorit mereka dengan rapi.
 
-## Getting Started
+## 🚀 Fitur Utama
+- **Pencarian Cerdas:** Temukan resep masakan untuk hari ini dengan cepat.
+- **Perpustakaan Resep:** Lihat resep yang tersimpan dalam tampilan grid yang elegan.
+- **Profil Pengguna:** Kelola data diri dan informasi akun dengan mudah.
 
-This project is a starting point for a Flutter application.
+## 🛠 Teknologi yang Digunakan
+- **Framework:** Flutter
+- **Bahasa:** Dart
+- **Manajemen State:** Flutter native state management
+- **UI/UX Design:** Figma
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Tampilan Aplikasi
+*(Silakan masukkan screenshot emulator aplikasi Recepia di sini)*
