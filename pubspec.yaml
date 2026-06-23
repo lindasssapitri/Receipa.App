@@ -1,0 +1,31 @@
+name: aplikasi_resep
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# HANYA SATU TAG FLUTTER
+flutter:
+  uses-material-design: true
+
+  # Pendaftaran folder aset yang benar (tanpa duplikasi tag)
+  assets:
+    - assets/home/
+    - assets/login/
+    - assets/resep/
+    - assets/splash 1/
+    - assets/splash 2/
+    - assets/splash 3/
+    
